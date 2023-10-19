@@ -5,10 +5,11 @@
 	display:grid;
 	grid-template-columns:repeat(2,1fr);
 	grid-template-rows:repeat(2,1fr);
-	grid-gap:5px;
+/* 	grid-gap:5px; */
 }
-.item {
+
+/* .item {
   border: 1px solid black;
   text-align: center;   
   padding: 10px;         
-}
+} */
